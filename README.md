@@ -5,6 +5,7 @@ ___
 # Dependencies
 1. [Matplot++](https://github.com/alandefreitas/matplotplusplus)
 2. [CMake](https://cmake.org/)
+3. [Gnuolot](http://www.gnuplot.info/)
 ___
 
 # Installation
